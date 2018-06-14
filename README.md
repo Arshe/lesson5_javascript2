@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(06 14, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Brian Lorenz)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Use javascript to create a web application that takes a income input and calculates the tax bracket and estimated taxes owed. It also has a clear function.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://arshe.github.io/lorenz_lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Arrays can be created inside arrays.)
+2. (A function can can call itself.)
+3. (Arrays only use numbered indexes in javascript.)
 
